@@ -80,4 +80,4 @@ for label in LABEL:
     with open(save_path, "w", encoding="utf-8") as f:
         f.write(df_json)
 
-print("所有数据处理完成！")
+print("所有数据去重完成！")
